@@ -10,6 +10,7 @@ body {
   flex-direction: column;
   justify-content: start;
   align-items: center;
+  width:200px;
 }
 .burger .bun {
   height: 80px;
@@ -21,7 +22,7 @@ body {
   border-radius: 0 0 100px 100px;
 }
 .burger .cosmic-fill{
-  filter: contrast(100%);
+  filter: contrast(200%);
   height: 100px;
   width: 100px;
   overflow: hidden;
